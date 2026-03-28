@@ -44,4 +44,3 @@ Smart air quality monitor using PMS5003, MQ-135, DHT22 sensors inside a miniatur
 [!][LinkedIn](www.linkedin.com/in/piyushkatyan).
 [![Email](piyushkatyan6@gmail.com)
 ```
-icon, paste the README template I gave you earlier, and hit Commit changes. Done — your profile card is live.
