@@ -27,7 +27,7 @@
 
 ## 📁 Featured Projects
 
-### 🔴 [4-bit ALU in Verilog](link-here)
+### 🔴 [4-bit ALU in Verilog]((https://github.com/piyushkatyan-svg/4-bit-ALU-Verilog)
 A fully functional 4-bit Arithmetic Logic Unit designed and simulated in Xilinx Vivado. Supports ADD, SUB, AND, OR, NOT, XOR operations with testbench verification.
 
 ### 🚦 [Traffic Light Controller (FSM)](link-here)
@@ -41,6 +41,6 @@ Smart air quality monitor using PMS5003, MQ-135, DHT22 sensors inside a miniatur
 
 ## 📬 Connect with Me
 
-[!][LinkedIn](www.linkedin.com/in/piyushkatyan).
-[![Email](piyushkatyan6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/piyushkatyan)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:piyushkatyan6@gmail.com)
 ```
